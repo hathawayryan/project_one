@@ -13,9 +13,7 @@ Data: https://www.fantasyfootballdatapros.com/
 
 •	Do this for each position.
 
-2. How long a player can sustain a level of play before their decline?
-•	Eg: What RB are the best and how long do they stay at a productive level?
-
+2. How likely is it that a player that was startable one year will be startable the next year?
 •	Do this for each position.
 
 3.How often rookies work out (best performance)?
